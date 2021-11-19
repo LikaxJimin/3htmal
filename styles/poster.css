@@ -20,14 +20,13 @@
     transition: all 1s;
 }
 
-
 .image {
     width: 800px;
     display: flex;
     margin: 1%;
 }
 .background:hover {color: black;
-    transition: all 1s;
+    transition: all 0,8s;
 
 }
     
