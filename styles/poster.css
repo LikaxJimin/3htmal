@@ -51,6 +51,7 @@ h2 {
     transition: all 0,8s;}
 body {
     background-color:rgba(43, 85, 67, 0.849);
+    background: linear-gradient(45deg, rgba(43, 85, 67, 0.849), rgb(0, 0, 0));
         
 }
 .image {
