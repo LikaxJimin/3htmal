@@ -67,6 +67,20 @@ body {
     display: block;
    
 }
+.image2 {
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+    display: flex;
+    margin: 1%;
+    box-shadow: 10px 10px 8px #000000;
+    
+}
+.image2 img {
+    width: 100%;
+    display: block;
+   
+}
 
 
 
