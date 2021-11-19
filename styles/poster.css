@@ -1,8 +1,8 @@
 @keyframes width-animation {
     from {
-        width: 5px;
+        width: 900px;
     } to {
-        width: 5px;
+        width: 1300px;
     }
 }
 h1{
