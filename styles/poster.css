@@ -19,10 +19,14 @@
     z-index: 2;
     opacity: 0.9;
     background-color: beige;
+    top: 150px;
+    left: 200px;
 }
 .goldbox {
     position: absolute;
     width: 700px;
     height: 450px;
     background-color: beige;
+    top: 400px;
+    left: 40px;
 }
