@@ -37,7 +37,8 @@ h2 {
     
     
 }
-.background:hover {color: black;
+.background:hover {
+    color: black;
     transition: all 0,8s;}
 .image {
     position: absolute;
