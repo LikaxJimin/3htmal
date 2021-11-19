@@ -2,7 +2,7 @@
     from {
         width: 900px;
     } to {
-        width: 900px;
+        width: 1200px;
     }
 }
 
@@ -10,7 +10,7 @@
     from {
         margin-left: 300px;
     } to {
-        margin-left: 900px;
+        margin-left: 1100px;
     }
 }
 
@@ -26,7 +26,7 @@ h2 {
 .background {
     position: relative;
     width: 900px;
-    height: 900px;
+    height: 1100px;
     animation: rotate-animation 1s infinite normal;
     animation: margin-animation 2s infinite alternate;
     border: dashed;
