@@ -28,6 +28,8 @@ h1{
     text-align: center;
 }
 .image {
+    width: 800px;
+    display: flex;
     margin: 1%;
 }
 .image img {
