@@ -49,6 +49,10 @@ h2 {
 .background:hover {
     color: black;
     transition: all 0,8s;}
+body {
+    background-color:rgba(43, 85, 67, 0.849);
+        
+}
 .image {
     position: absolute;
     top: 60px;
