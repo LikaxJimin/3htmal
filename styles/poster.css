@@ -43,6 +43,11 @@ h2 {
     display: flex;
     margin: 1%;
 }
+.image img {
+    width: 100%;
+    display: block;
+   
+}
 
 
 
