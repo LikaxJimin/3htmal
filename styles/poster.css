@@ -27,8 +27,7 @@ h2 {
     position: relative;
     width: 900px;
     height: 1300px;
-   
-	animation: rotate-animation 1s infinite normal;
+    animation: rotate-animation 1s infinite normal;
     animation: margin-animation 2s infinite alternate;
     border: dashed;
     margin-top: 30px;
