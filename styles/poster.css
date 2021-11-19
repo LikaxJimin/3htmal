@@ -8,7 +8,7 @@
 
 @keyframes margin-animation {
     from {
-        margin-left: 400px;
+        margin-left: 300px;
     } to {
         margin-left: 1300px;
     }
@@ -31,7 +31,7 @@ h2 {
     animation: margin-animation 2s infinite alternate;
     border: dashed;
     margin-top: 30px;
-    margin-left: 500px;
+    margin-left: 300px;
     margin-bottom: 40px;
     z-index: 1;
     background-color: rgba(14, 78, 51, 0.404);
