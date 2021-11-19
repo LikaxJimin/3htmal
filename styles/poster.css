@@ -12,7 +12,7 @@ h2 {
     margin: 1%;
 }
 .background {
-  position: relative;
+    position: relative;
     width: 900px;
     height: 1300px;
     animation: width-animation 2s infinite alternate;
