@@ -8,7 +8,9 @@
     border: dashed;
     margin-top: 30px;
     margin-left: 20px;
+    margin-bottom: 20px;
     z-index: 1;
+    background-color: beige;
 }
 .greenbox {
     position: absolute;
@@ -16,9 +18,11 @@
     height: 800px;
     z-index: 2;
     opacity: 0.9;
+    background-color: beige;
 }
 .goldbox {
     position: absolute;
     width: 700px;
     height: 450px;
+    background-color: beige;
 }
