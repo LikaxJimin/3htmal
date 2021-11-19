@@ -10,7 +10,7 @@
     margin-left: 20px;
     margin-bottom: 20px;
     z-index: 1;
-    background-color: beige;
+    background-color: rgba(14, 78, 51, 0.404);
 }
 .greenbox {
     position: absolute;
@@ -18,7 +18,7 @@
     height: 800px;
     z-index: 2;
     opacity: 0.9;
-    background-color: beige;
+    background-color: rgba(14, 78, 51, 0.404);
     top: 150px;
     left: 200px;
 }
@@ -26,7 +26,7 @@
     position: absolute;
     width: 700px;
     height: 450px;
-    background-color: beige;
+    background-color: rgba(14, 78, 51, 0.404);
     top: 400px;
     left: 40px;
 }
