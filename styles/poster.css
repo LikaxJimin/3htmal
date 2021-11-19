@@ -59,7 +59,7 @@ body {
     left: 3px;
     display: flex;
     margin: 1%;
-    box-shadow: 10px 10px 8px #888888;
+    box-shadow: 10px 10px 8px #000000;
     
 }
 .image img {
