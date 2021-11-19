@@ -8,6 +8,16 @@ h1{
     margin: 1%;
     transition: all 1s;
 }
+.beautiful-element {
+    color: rgb(240, 231, 179);
+    font-size: 5vw;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: "name";
+    src: url("../assets/Dearlove.ttf");
+    margin: 1%;
+    transition: all 1s;
+}
 
 .background {
   position: relative;
@@ -29,17 +39,7 @@ h1{
     transition: all 1s;
 }
 
-.beautiful-element {
-    color: rgb(240, 231, 179);
-    font-size: 5vw;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-family: "name";
-    src: url("../assets/Dearlove.ttf");
-    margin: 1%;
-    transition: all 1s;
-    
-}
+
 .image {
     width: 800px;
     display: flex;
