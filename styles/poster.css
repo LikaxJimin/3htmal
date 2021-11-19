@@ -13,6 +13,7 @@
     background-color: rgba(14, 78, 51, 0.404);
 }
 .greenbox {
+    padding:1px;
     position: absolute;
     width: 300px;
     height: 800px;
