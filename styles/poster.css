@@ -8,7 +8,7 @@
     border: dashed;
     margin-top: 30px;
     margin-left: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     z-index: 1;
     background-color: rgba(14, 78, 51, 0.404);
 }
@@ -18,7 +18,4 @@
 	height: 1000px;
 	background-color: rgba(3, 32, 20, 0.404);
 }
-body {
-    background-color:rgba(43, 85, 67, 0.849);
-    
-}
+
