@@ -8,11 +8,9 @@ h1{
     margin: 1%;
     transition: all 1s;
 }
-.wrapper {
-    position: relative;
-}
+
 .background {
-   position: fixed;
+  position: relative;
     width: 900px;
     height: 900px;
     border: dashed;
