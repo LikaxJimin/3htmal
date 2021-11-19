@@ -5,6 +5,9 @@
         width: 1300px;
     }
 }
+.wrapper {
+    position: relative;
+}
 h1{
     margin: 1%;
 }
