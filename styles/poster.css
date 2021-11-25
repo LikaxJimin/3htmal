@@ -50,7 +50,7 @@
     bottom: 0;
     border-radius: 100%;
     background: rgb(240, 231, 179);
-    animation: move 2s infinite;
+    animation: move 2s infinite alternate;
   }
   @keyframes move {
     from {
