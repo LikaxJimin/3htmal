@@ -15,7 +15,7 @@
 }
 @keyframes text-animation {
     from {
-        width: 100px;
+        width: 200px;
     } to {
         width: 300px;
     }
