@@ -44,8 +44,8 @@
  }
  i {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 200px;
+    height: 200px;
     left: 0;
     bottom: 0;
     border-radius: 100%;
@@ -62,9 +62,7 @@
       bottom: 1000px;
     }  
   }
- .ease-in-out i { 
-    animation-timing-function: ease-in-out; 
-  }
+
 
 .wrapper {
     position: relative;
