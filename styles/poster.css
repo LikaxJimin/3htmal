@@ -47,6 +47,26 @@
     color: rgb(240, 231, 179);
     
  }
+ i {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    left: 0;
+    bottom: 0;
+    border-radius: 50%;
+    background: #F6AC31;
+    animation: move 2s infinite;
+  }
+  @keyframes move {
+    from {
+      left: 0;
+      bottom: 0; 
+    }
+    to { 
+      left: 145px; 
+      bottom: 145px;
+    }  
+  }
  .ease-in-out i { 
     animation-timing-function: ease-in-out; 
   }
