@@ -44,8 +44,8 @@
  }
  i {
     position: absolute;
-    width: 70px;
-    height: 70px;
+    width: 500px;
+    height: 500px;
     left: 0;
     bottom: 0;
     border-radius: 100%;
@@ -58,8 +58,8 @@
       bottom: 0; 
     }
     to { 
-      left: 200px; 
-      bottom: 200px;
+      left: 1000px; 
+      bottom: 1000px;
     }  
   }
  .ease-in-out i { 
