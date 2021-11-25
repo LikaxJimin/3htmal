@@ -6,6 +6,13 @@
     }
 }
 
+@keyframes margin-animation {
+    from {
+        margin-left: 300px;
+    } to {
+        margin-left: 1100px;
+    }
+}
 
 
 .text {
@@ -39,12 +46,12 @@
  }
  i {
     position: absolute;
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
     left: 0;
     bottom: 0;
-    border-radius: 50%;
-    background: #070706;
+    border-radius: 100%;
+    background: rgb(240, 231, 179);
     animation: move 2s infinite;
   }
   @keyframes move {
