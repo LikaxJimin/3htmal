@@ -6,34 +6,7 @@
     }
 }
 
-@keyframes margin-animation {
-    from {
-        margin-left: 300px;
-    } to {
-        margin-left: 1100px;
-    }
-}
-@keyframes animation-timing-function {
-    from {
-        top: 100px;
-        animation-timing-function: ease-out;
-      }
-      25% {
-        top: 50px;
-        animation-timing-function: ease-in;
-      }
-      50% {
-        top: 100px;
-        animation-timing-function: ease-out;
-      }
-      75% {
-        top: 75px;
-        animation-timing-function: ease-in;
-      }
-      to {
-        top: 100px;
-      }
-}
+
 
 .text {
     position: relative;
@@ -66,12 +39,12 @@
  }
  i {
     position: absolute;
-    width: 5px;
-    height: 5px;
+    width: 20px;
+    height: 20px;
     left: 0;
     bottom: 0;
     border-radius: 50%;
-    background: #F6AC31;
+    background: #070706;
     animation: move 2s infinite;
   }
   @keyframes move {
