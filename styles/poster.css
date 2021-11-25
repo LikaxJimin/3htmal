@@ -35,7 +35,7 @@
       }
 }
 
-.text {
+.ease-in-out {
     position: relative;
     width: 300px;
     height: 300px;
@@ -47,7 +47,9 @@
     color: rgb(240, 231, 179);
     
  }
- 
+ .ease-in-out i { 
+    animation-timing-function: ease-in-out; 
+  }
 
 .wrapper {
     position: relative;
