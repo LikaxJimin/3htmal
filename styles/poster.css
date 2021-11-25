@@ -44,8 +44,8 @@
  }
  i {
     position: absolute;
-    width: 200px;
-    height: 200px;
+    width: 1400px;
+    height: 1400px;
     left: 0;
     bottom: 0;
     border-radius: 100%;
@@ -58,8 +58,8 @@
       bottom: 0; 
     }
     to { 
-      left: 1000px; 
-      bottom: 1000px;
+      left: 800px; 
+      bottom: 800px;
     }  
   }
 
