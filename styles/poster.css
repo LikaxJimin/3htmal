@@ -13,16 +13,24 @@
         margin-left: 1100px;
     }
 }
-
+@keyframes width-animation {
+    from {
+        width: 100px;
+    } to {
+        width: 200px;
+    }
+}
 @keyframes text-animation {
     from {
         margin-left: 100px;
     } to {
-        margin-left:400px;
+        margin-left: 400px;
     }
 }
 .text {
     position: relative;
+    width: 100px;
+    height: 200px;
     margin-top: 100px;
     margin-left: 400px;
     color: rgb(240, 231, 179);
