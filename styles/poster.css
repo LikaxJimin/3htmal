@@ -13,14 +13,14 @@
         margin-left: 1100px;
     }
 }
-@keyframes text-animation {
+@keyframes rotate-animation {
     from {
         width: 300px;
     } to {
         width: 300px;
     }
 }
-@keyframes text-animation {
+@keyframes rotate-animation {
     from {
         margin-top: 100px;
     } to {
