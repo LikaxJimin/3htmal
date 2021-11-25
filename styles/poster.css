@@ -27,6 +27,7 @@
         margin-left: 300px;
     }
 }
+div {animation: shadow 1s ease-in-out 0.5s alternate, move 5s linear 2s;}
 .text {
     position: relative;
     width: 300px;
