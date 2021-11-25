@@ -24,18 +24,18 @@
     from {
         margin-top: 100px;
     } to {
-        margin-left: 200px;
+        margin-left: 300px;
     }
 }
 .text {
     position: relative;
-    width: 200px;
+    width: 100px;
     height: 300px;
     animation: rotate-animation 1s infinite normal;
     margin-top: 100px;
     margin-left: 400px;
     z-index: 1;
-    font-size: 1vw;
+    font-size: 1,5vw;
     color: rgb(240, 231, 179);
     
  }
