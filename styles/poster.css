@@ -14,7 +14,6 @@
     }
 }
 
-
 .text {
     position: relative;
     width: 300px;
@@ -36,8 +35,8 @@
 .ease-in-out:after {
     content: attr(class);
     position: absolute;
-    top: 6px;
-    left: 6px;
+    top: 100px;
+    left: 100px;
     padding: 6px;
   }
  .ease-in-out {
