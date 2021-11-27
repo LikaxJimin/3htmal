@@ -43,7 +43,7 @@
   @keyframes move {
     from {
       left: 400;
-      bottom: 400; 
+      bottom: 600; 
     }
     to { 
       left: 600px; 
