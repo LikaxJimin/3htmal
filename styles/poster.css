@@ -42,12 +42,14 @@
  .ease-in-out {
     animation-timing-function: \2605 cubic-bezier(0.42,0,0.58,1);
     position: absolute;
-    width: 140px;
-    height: 140px;
+    width: 100px;
+    height: 100px;
     left: 0;
     bottom: 0;
     color:  rgb(240, 231, 179);
     animation: move 2s infinite alternate;
+    size: 28px;
+
   }
   @keyframes move {
     from {
@@ -55,8 +57,8 @@
       bottom: 0; 
     }
     to { 
-      left: 800px; 
-      bottom: 800px;
+      left: 400px; 
+      bottom: 400px;
     }  
   }
 
