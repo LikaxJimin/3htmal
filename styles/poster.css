@@ -40,13 +40,12 @@
     padding: 100px;
   }
  .ease-in-out {
-    animation-timing-function: ease-in-out cubic-bezier(0.42,0,0.58,1);
+    animation-timing-function: \2605 cubic-bezier(0.42,0,0.58,1);
     position: absolute;
     width: 140px;
     height: 140px;
     left: 0;
     bottom: 0;
-    border-radius: 100%;
     background: rgb(240, 231, 179);
     animation: move 2s infinite alternate;
   }
