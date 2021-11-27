@@ -20,9 +20,6 @@
 
 }
    
- 
-
-
  .ease-in-out {
     animation-timing-function: \2605 cubic-bezier(0.42,0,0.58,1);
     position: absolute;
@@ -85,11 +82,19 @@ h2 {
 .background:hover {
     color: black;
     transition: all 0,8s;}
-body {
-    background-color:rgba(43, 85, 67, 0.849);
-    background: linear-gradient(90deg, rgba(43, 85, 67, 0.849), rgb(0, 0, 0));
-        
-}
+
+    html, body {
+        margin:0;
+        padding:0;
+        background-color:#fff;
+      }
+      
+      canvas {
+        display: block;
+        width:500px;
+        height:500px;
+        background:#000;
+      }
 .image {
     position: absolute;
     top: 60px;
