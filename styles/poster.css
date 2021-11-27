@@ -33,8 +33,8 @@
     position: absolute;
     width: 100px;
     height: 100px;
-    left: 400;
-    bottom: 600;
+    left: 0;
+    bottom: 0;
     color:  rgb(240, 231, 179);
     animation: move 2s infinite alternate;
     size: 28px;
@@ -47,7 +47,7 @@
     }
     to { 
       left: 600px; 
-      bottom: 500px;
+      bottom: 900px;
     }  
   }
 
