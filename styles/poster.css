@@ -34,7 +34,7 @@
     width: 100px;
     height: 100px;
     left: 400;
-    bottom: 400;
+    bottom: 600;
     color:  rgb(240, 231, 179);
     animation: move 2s infinite alternate;
     size: 28px;
