@@ -37,7 +37,7 @@
     bottom: 0;
     color:  rgb(240, 231, 179);
     animation: move 3s infinite alternate;
-    size: 28px;
+    size: 32px;
 
   }
   @keyframes move {
