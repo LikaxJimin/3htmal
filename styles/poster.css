@@ -83,22 +83,10 @@ h2 {
 .background:hover {
     color: black;
     transition: all 0,8s;}
-    body {
+body {
         background-color:rgba(43, 85, 67, 0.849);
         background: linear-gradient(90deg, rgba(43, 85, 67, 0.849), rgb(0, 0, 0));}
 
-    html, body {
-        margin:0;
-        padding:0;
-        background-color:#fff;
-      }
-      
-      canvas {
-        display: block;
-        width:500px;
-        height:500px;
-        background:#000;
-      }
 .image {
     position: absolute;
     top: 60px;
