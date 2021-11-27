@@ -46,7 +46,7 @@
     height: 140px;
     left: 0;
     bottom: 0;
-    background: rgb(240, 231, 179);
+    color:  rgb(240, 231, 179);
     animation: move 2s infinite alternate;
   }
   @keyframes move {
