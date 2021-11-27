@@ -57,12 +57,6 @@ h1 {
 h2 {
     margin: 1%;
 }
-@font-face {
-    color: rgb(240, 231, 179);
-    font-size: 4vw;
-    font-family: Arial, Helvetica, sans-serif;
-    src: url("../assets/Dearlove.ttf");
-    margin: 30px;}
 .background {
     position: relative;
     width: 900px;
@@ -75,15 +69,17 @@ h2 {
     margin-bottom: 40px;
     z-index: 1;
     background-color: rgba(14, 78, 51, 0.404);
-   
+    color: rgb(240, 231, 179);
+    font-size: 4vw;
     text-align: center;
-    transition: all 1s;}
-  
-
-        
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: "name";
+    src: url("../assets/Dearlove.ttf");
+    margin: 30px;
+    transition: all 1s;
     
     
-
+}
 .background:hover {
     color: black;
     transition: all 0,8s;}
