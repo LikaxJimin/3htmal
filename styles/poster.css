@@ -42,8 +42,8 @@
   }
   @keyframes move {
     from {
-      left: 400;
-      bottom: 600; 
+      left: 400px;
+      bottom: 600px; 
     }
     to { 
       left: 700px; 
