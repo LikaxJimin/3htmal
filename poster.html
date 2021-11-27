@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
     <link rel="stylesheet" href="styles/poster.css"> 
     <title>Poster</title>
-    <canvas id="main_canvas"></canvas>
+    
     </head>
     <body>
 <h1>Poster</h1>
@@ -16,8 +16,6 @@
     <li><a href="index.html">Movie</a></li>
     <li><a href="poster.html">Poster</a></li>
 </nav>
-
-
 <div class="wrapper"> 
     <div class="background">A Walk to Remember</div>
     <div class="image"> 
@@ -30,33 +28,31 @@
  <div>
     <div class="ml3">She's the best person I've ever known.</dic>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>  </div>
-</div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
     <script>
-
         // Wrap every letter in a span
- var textWrapper = document.querySelector('.ml3');
- textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
- 
- anime.timeline({loop: true})
-   .add({
-     targets: '.ml3 .letter',
-     opacity: [0,1],
-     easing: "easeInOutQuad",
-     duration: 2250,
-     delay: (el, i) => 150 * (i+1)
-   }).add({
-     targets: '.ml3',
-     opacity: 0,
-     duration: 1000,
-     easing: "easeOutExpo",
-     delay: 1000
-   });
-       
-       </script>
+var textWrapper = document.querySelector('.ml3');
+textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 
-    
+anime.timeline({loop: true})
+  .add({
+    targets: '.ml3 .letter',
+    opacity: [0,1],
+    easing: "easeInOutQuad",
+    duration: 2250,
+    delay: (el, i) => 150 * (i+1)
+  }).add({
+    targets: '.ml3',
+    opacity: 0,
+    duration: 1000,
+    easing: "easeOutExpo",
+    delay: 1000
+  });
+    </script>
+
+     </div>
+ </div>
  <div><div class="ease-in-out">&#9733</div></div>
-
+ 
 </body>
 </html>
