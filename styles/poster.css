@@ -33,7 +33,7 @@
     position: absolute;
     width: 100px;
     height: 100px;
-    left: 0;
+    left: 100;
     bottom: 0;
     color:  rgb(240, 231, 179);
     animation: move 2s infinite alternate;
