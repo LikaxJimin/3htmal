@@ -43,6 +43,9 @@
     }  
   }
 
+body{
+    color: rgba(14, 78, 51, 0.404);
+}
 
 .wrapper {
     position: relative;
