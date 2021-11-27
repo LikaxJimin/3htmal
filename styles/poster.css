@@ -43,9 +43,7 @@
     }  
   }
 
-body{
-    color: rgba(14, 78, 51, 0.404);
-}
+
 
 .wrapper {
     position: relative;
@@ -85,6 +83,9 @@ h2 {
 .background:hover {
     color: black;
     transition: all 0,8s;}
+    body {
+        background-color:rgba(43, 85, 67, 0.849);
+        background: linear-gradient(90deg, rgba(43, 85, 67, 0.849), rgb(0, 0, 0));}
 
     html, body {
         margin:0;
