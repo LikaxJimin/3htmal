@@ -43,8 +43,6 @@
     }  
   }
 
-
-
 .wrapper {
     position: relative;
 }
@@ -59,7 +57,6 @@ body{
     min-height: 100vh
   }
 
-    
 .background {
     position: relative;
     width: 900px;
@@ -80,7 +77,6 @@ body{
     src: url("../assets/Dearlove.ttf");
     margin: 30px;
     transition: all 1s;
-    
     
 }
 .background:hover {
