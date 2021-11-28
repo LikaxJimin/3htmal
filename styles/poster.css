@@ -57,7 +57,12 @@ h1 {
 h2 {
     margin: 1%;
 }
-
+#nav {
+    position: relative;
+    left: -90px;
+    background-color: rgba(43, 85, 67, 0.849); 
+    color: rgb(240, 231, 179) 
+}
     
 .background {
     position: relative;
